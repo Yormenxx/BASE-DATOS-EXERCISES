@@ -1,1 +1,1 @@
-
+Al igual que SQL keys , se realiza la construcción de bases de datos NoSql para la preparación sobre bases de datos.
