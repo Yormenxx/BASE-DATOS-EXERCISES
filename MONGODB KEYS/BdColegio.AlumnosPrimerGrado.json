@@ -1,0 +1,189 @@
+[{
+  "_id": {
+    "$oid": "672cdccde6cf3ae290fd10b8"
+  },
+  "nombre": "Miguel Sanz",
+  "apellido": "Perez",
+  "direccion": {
+    "ciudad": "Bogota",
+    "barrio": "Rincon del valle",
+    "numero": "Cl 8 No. 20-30 L 184, C.P 11001"
+  },
+  "telefono": "+573162729908",
+  "acudiente": {
+    "nombre": "Carolina",
+    "apellido": "Ramirez",
+    "parentesco": "Madre",
+    "telefono": "+573336535959"
+  },
+  "edad": 8,
+  "pasatiempo": [
+    "jugar",
+    "correr",
+    "ver series"
+  ]
+},
+{
+  "_id": {
+    "$oid": "672cdccde6cf3ae290fd10b9"
+  },
+  "nombre": "Oscar Manuel",
+  "apellido": "Montes",
+  "direccion": {
+    "ciudad": "Bogota",
+    "barrio": "Miravalle",
+    "numero": "Cr 69P No. 70-14, C.P 11001"
+  },
+  "telefono": "+573335889161",
+  "acudiente": {
+    "nombre": "Natalia",
+    "apellido": "Roa Perez",
+    "parentesco": "Madre",
+    "telefono": "+573330047677"
+  },
+  "edad": 8,
+  "pasatiempo": [
+    "jugar",
+    "ir al parque"
+  ]
+},
+{
+  "_id": {
+    "$oid": "672cdccde6cf3ae290fd10ba"
+  },
+  "nombre": "Angeli",
+  "apellido": "Gutierrez",
+  "direccion": {
+    "ciudad": "Bogota",
+    "barrio": "Marichuela",
+    "numero": "Cr 14B # 75A-O7 SUR"
+  },
+  "telefono": "+573054662583",
+  "acudiente": {
+    "nombre": "Alvaro",
+    "apellido": "Mora",
+    "parentesco": "Padre",
+    "telefono": "+573045145927"
+  },
+  "edad": 7,
+  "pasatiempo": [
+    "musica",
+    "cantar"
+  ]
+},
+{
+  "_id": {
+    "$oid": "672cdccde6cf3ae290fd10bb"
+  },
+  "nombre": "Karla mariana",
+  "apellido": "Zaragosa",
+  "direccion": {
+    "ciudad": "Bogota",
+    "barrio": "20 de julio",
+    "numero": "Cr 11B # 45A-O7 SUR"
+  },
+  "telefono": "+5719479693476",
+  "acudiente": {
+    "nombre": "Ana Maria",
+    "apellido": "Cabello",
+    "parentesco": "Madre",
+    "telefono": "+576063017381"
+  },
+  "edad": 7,
+  "pasatiempo": [
+    "Escuchar musica"
+  ]
+},
+{
+  "_id": {
+    "$oid": "672cdccde6cf3ae290fd10bc"
+  },
+  "nombre": "Ivan ",
+  "apellido": "Molina",
+  "direccion": {
+    "ciudad": "Bogota",
+    "barrio": "20 de julio",
+    "numero": "2C ESTE # 45A-O7 SUR"
+  },
+  "telefono": "+576018247532",
+  "acudiente": {
+    "nombre": "Osca Ivan",
+    "apellido": "Molina",
+    "parentesco": "Padre",
+    "telefono": "+5718000129550"
+  },
+  "edad": 8,
+  "pasatiempo": [
+    "jugar futbol"
+  ]
+},
+{
+  "_id": {
+    "$oid": "672cdccde6cf3ae290fd10bd"
+  },
+  "nombre": "Rafel Medina",
+  "apellido": "Escorzia",
+  "direccion": {
+    "ciudad": "Bogota",
+    "barrio": "La candelaria nueva",
+    "numero": "Cr 11B # 45A-O7 SUR"
+  },
+  "telefono": "+573052671791",
+  "acudiente": {
+    "nombre": "Carolina",
+    "apellido": "Escorzia",
+    "parentesco": "Madre",
+    "telefono": "+576028961748"
+  },
+  "edad": 8,
+  "pasatiempo": [
+    "Escuchar musica",
+    "jugar"
+  ]
+},
+{
+  "_id": {
+    "$oid": "672cdccde6cf3ae290fd10be"
+  },
+  "nombre": "Camilo Andres",
+  "apellido": "Blanco",
+  "direccion": {
+    "ciudad": "Bogota",
+    "barrio": "Tunjuelo alto",
+    "numero": "Cr 22B # 45A-O7 SUR"
+  },
+  "telefono": "+576010550595",
+  "acudiente": {
+    "nombre": "Sara",
+    "apellido": "Blanco",
+    "parentesco": "Madre",
+    "telefono": "+576010550595"
+  },
+  "edad": 7,
+  "pasatiempo": [
+    "Jugar en el parque"
+  ]
+},
+{
+  "_id": {
+    "$oid": "672cdccde6cf3ae290fd10bf"
+  },
+  "nombre": "Antonio Gomez ",
+  "apellido": "Roa",
+  "direccion": {
+    "ciudad": "Bogota",
+    "barrio": "Usme",
+    "numero": "Cr 11B # 55A-O12 ESTE"
+  },
+  "telefono": "+5719470736559",
+  "acudiente": {
+    "nombre": "Camilo Pardo",
+    "apellido": "Roa",
+    "parentesco": "Padre",
+    "telefono": "+576064691257"
+  },
+  "edad": 8,
+  "pasatiempo": [
+    "ver futbol"
+  ]
+}]
