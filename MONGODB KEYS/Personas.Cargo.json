@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "671aabbd62c351ec0b481162"
+  },
+  "nombreCargo": "Doctor"
+},
+{
+  "_id": {
+    "$oid": "671aacab62c351ec0b481163"
+  },
+  "nombreCargo": "Abogado"
+},
+{
+  "_id": {
+    "$oid": "671aad1462c351ec0b481164"
+  },
+  "nombreCargo": "Fiscar"
+},
+{
+  "_id": {
+    "$oid": "671aad1462c351ec0b481165"
+  },
+  "nombreCargo": "Programador"
+},
+{
+  "_id": {
+    "$oid": "671aadd762c351ec0b481167"
+  },
+  "nombreCargo": "Meico"
+},
+{
+  "_id": {
+    "$oid": "671aadd762c351ec0b481168"
+  },
+  "nombreCargo": "Actor"
+}]
