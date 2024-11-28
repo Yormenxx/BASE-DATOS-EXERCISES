@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "671aab5962c351ec0b481161"
+  },
+  "nombre": "lucio",
+  "apellido": "hurol",
+  "edad": 35
+},
+{
+  "_id": {
+    "$oid": "671aad9462c351ec0b481166"
+  },
+  "nombre": "Felipe",
+  "gustos": [
+    "Estudiar",
+    "Pasear"
+  ]
+},
+{
+  "_id": {
+    "$oid": "671ab07562c351ec0b481169"
+  },
+  "nombre": "Pedro",
+  "apellido": "garcia"
+},
+{
+  "_id": {
+    "$oid": "671ab09e62c351ec0b48116a"
+  },
+  "nombre": "Eduardo",
+  "gustos": [
+    "hablar",
+    "jugar"
+  ]
+},
+{
+  "_id": {
+    "$oid": "671ab15a62c351ec0b48116b"
+  },
+  "nombre": "nely",
+  "edad": 19
+}]
