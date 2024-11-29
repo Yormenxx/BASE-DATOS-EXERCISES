@@ -2,7 +2,6 @@ CREATE database cinema;
 USE cinema;
 DROP TABLE if exists peliculas;
 
--- Creamos la tabla peliculas
 
 CREATE TABLE peliculas(
 	codigo int NOT NULL primary key,
