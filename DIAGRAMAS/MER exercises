@@ -87,6 +87,14 @@ cada proveedor se desea guardar el código, nombre, apellidos, dirección,
 provincia y número de teléfono
 
 
+## Ejercicio 5
+
+En una escuela se requiere crear un sistemas para él control de asistencia. Tienes que asegurarte de registrar la asistencia diaria de los estudiantes a las clases. Cada estudiante puede estar inscrito en una o varias asignaturas.
+
+Cada asignatura puede ser impartida por uno o varios profesores.
+
+Debes almacenar la fecha y hora de las clase y será impartida por un profesor en una asignatura determinada.
+
 
 
 
