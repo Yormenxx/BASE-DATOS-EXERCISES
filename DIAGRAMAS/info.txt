@@ -1,1 +1,1 @@
-
+El presente directorio estará enfocado a la creación de ejercicios para el desarollo de modelos entidad-relacion sql.
