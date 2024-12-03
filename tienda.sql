@@ -110,19 +110,6 @@ select id_fabricante, max(precio) from producto group by id_fabricante;
 
 select * from producto;
 
-delimiter //
-
-create procedure nombre_alumno_igual (IN letra char)
-begin 
-select 
-count(*) from producto
-where nombre like concat('%' ,letra, '%');
-
-end //
-
-delimiter ;
-
-call nombre_alumno_igual('a');
 
 
 
