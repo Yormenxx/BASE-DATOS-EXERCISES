@@ -1,3 +1,6 @@
+use movies
+db.createCollection("movies")
+
 db.movies.insertMany([
     {
         title: "Fight Club",
