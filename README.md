@@ -7,7 +7,7 @@ Bases de datos creadas con el fin de la practica de sentencias dml, ddl entre ot
 
 ## Tech Stack
 
-**Server:** Mysql, Mysql Workbench
+**Server:** Mysql, Mysql Workbench,Mongodb
 
 
 
